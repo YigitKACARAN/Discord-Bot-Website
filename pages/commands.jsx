@@ -3,7 +3,6 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
-    "/help",
     "/8d",
     "/247",
     "/adddj",
