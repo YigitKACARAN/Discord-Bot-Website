@@ -12,7 +12,7 @@ export default function Footer() {
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
                                 <img src="/img/logo2.png" className="rounded-full w-12" />
-                                <p className="font-semibold text-xl text-white">Astra Bot</p>
+                                <p className="font-semibold text-xl text-white">Spotify Music Bot</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
                                 <div>
@@ -64,11 +64,7 @@ export default function Footer() {
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://github.com/1umutda/MusicBot">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-github`} /> GitHub 
-                                    </a>
-                                </Link>
+
                             </div>
                             <div>
                                 <Link href="https://youtube.com/UmutBayraktarYT">
@@ -106,7 +102,7 @@ export default function Footer() {
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Astra Bot ❤️"}
+                            {"Developer By Snøwy"}
                         </p>
                     </div>
                 </div>
