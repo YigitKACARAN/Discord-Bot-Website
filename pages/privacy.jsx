@@ -14,9 +14,7 @@ export default function Privacy() {
         <p>⊳ You cannot use certain commands at the same time while using Spotify Music.</p>   
         <div className="py-3"></div>
         <p>⊳ Spotify Music bot does not save any data based on users.</p>
-        <div className="py-3"></div>
-        <p>⊳ While using the bot, your user ID is saved and deleted in the system for 60 seconds for once.</p> 
-    
+        <div className="py-3"></div>    
         </div>
             </div>
     );
