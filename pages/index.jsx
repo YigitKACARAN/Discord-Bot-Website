@@ -90,7 +90,7 @@ Vote Spotify Music</a>
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Spotify Music, the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://media.discordapp.net/attachments/1113158599884156950/1113568525940969472/009a0ca006e93c11009a0ca006e93c11bba81d9504fa2eccbba81d9504fa2eccfoto2.png?width=523&height=390" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/attachments/1113918850023567532/1114247722220924999/foto2.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
