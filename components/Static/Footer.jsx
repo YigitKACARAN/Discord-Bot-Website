@@ -44,7 +44,7 @@ export default function Footer() {
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/jM8TMPp8GW" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.gg/FuetJBUgUh" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Support Server
                                 </a>
                             </div>
@@ -57,9 +57,9 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
                             <div>
-                                <Link href="https://discord.gg/jM8TMPp8GW">
+                                <Link href="https://discord.gg/FuetJBUgUh">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-discord`} /> Disocrd 
+                                    <i className={`fa-brands fa-discord`} /> Discord 
                                     </a>
                                 </Link>
                             </div>
